@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vickyhub2003
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning fullstack development
+- 👀 I’m interested in app development using flutter
+- 🌱 I’m currently learning advance flutter
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me 7027457545
 - 😄 Pronouns: he
